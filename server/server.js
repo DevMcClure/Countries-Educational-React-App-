@@ -11,13 +11,9 @@ const createRouter = require('./helpers/create_router.js');
 MongoClient.connect('mongodb://localhost:27017', { useUnifiedTopology: true })
     .then((client) => {
         const db = client.db('countriesApp');
-        const countriesCollection = db.collection('countries');
-        const countriesRouter = createRouter(countriesCollection);
-        app.use('/api/countries', countriesRouter);
-
-        const usersCollection = db.collection('users');
-        const usersRouter = createRouter(usersCollection);
-        app.use('/api/users', usersRouter);
+        const bookingsCollection = db.collection('countries');
+        const bookingsRouter = createRouter(bookingsCollection);
+        app.use('/api/bookings', bookingsRouter);
     })
     .catch(console.error)
 
