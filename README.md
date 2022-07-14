@@ -42,7 +42,7 @@ To run server:
 
 
 
-**To seed the database:** 
+To seed the database:
 `npm run seeds`
 
 
