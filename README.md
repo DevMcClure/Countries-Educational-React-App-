@@ -75,11 +75,11 @@ A user should be able to:
 
 ## Technologies used
 
-React<br>
-Javascript<br>
-HTML<br>
-CSS<br>
-Mongo DB<br>
+- React<br>
+- Javascript<br>
+- HTML<br>
+- CSS<br>
+- Mongo DB<br>
 
 
 
