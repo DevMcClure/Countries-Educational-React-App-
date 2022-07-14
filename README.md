@@ -72,12 +72,16 @@ A user should be able to:
 - view some educational content on a particular topic
 - be able to interact with the page to move through different sections of content
 
-## Example Extensions
+## Extensions
 
 - Use an API to bring in content or a database to store information.
 - Use charts or maps to display your information to the page.
 
-## API, Libraries, Resources
+## Technologies used:
 
-- https://www.highcharts.com/ HighCharts is an open-source library for rendering responsive charts.
-- https://leafletjs.com/ Leaflet is an open-source library for rendering maps and map functionality.
+React
+Javascript
+Mongo DB
+
+
+
