@@ -2,7 +2,7 @@
 
 This project was bootstrapped with Create React App.
 
-# To view
+# Instructions to view
 
 ## Open "Client" folder in terminal: 
 
