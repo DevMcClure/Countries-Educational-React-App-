@@ -1,4 +1,4 @@
-# Countries-Educational-React-App-
+# Countries Educational React App
 
 This project was bootstrapped with Create React App.
 
