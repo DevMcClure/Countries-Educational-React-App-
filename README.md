@@ -79,9 +79,11 @@ A user should be able to:
 
 ## Technologies used:
 
-React
-Javascript
-Mongo DB
+React<br>
+Javascript<br>
+HTML<br>
+CSS<br>
+Mongo DB<br>
 
 
 
