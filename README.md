@@ -61,7 +61,7 @@ Open http://localhost:3000 to view it in your browser.
 *(leave terminal window running)*
 
 
-# Project Brief - Educational App
+## Project Brief - Educational App
 
 The BBC are looking to improve their online offering of educational content by developing some interactive browser applications that display information in a fun and interesting way. Your task is to make an a Minimum Viable Product or prototype to put forward to them - this may only be for a small set of information, and may only showcase some of the features to be included in the final app.
 
