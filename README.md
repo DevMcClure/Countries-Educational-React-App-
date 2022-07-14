@@ -7,12 +7,12 @@ This project was bootstrapped with Create React App.
 ## Open "Client" folder in terminal: 
 
 
-- To install Node Package manager:
+- Install Node Package manager:
 
 `npm install` (if error: `npm update`)
 
 
-- To run server:
+- Run server:
 
 `npm start` 
 
@@ -26,7 +26,7 @@ Open http://localhost:3000 to view it in your browser.
 
 ## Open "Server" folder in second terminal: 
 
-- To install Node Package manager:
+- Install Node Package manager:
 
 `npm install` (if error: `npm update`)
 
@@ -40,7 +40,7 @@ Open http://localhost:3000 to view it in your browser.
  
 `npm install express`
 
-- To run server:
+- Run server:
 
 `npm run server:dev` 
 
