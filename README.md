@@ -4,7 +4,7 @@ This project was bootstrapped with Create React App.
 
 # To view
 
-### Open Client folder in second terminal: ###
+### Open Client folder in terminal: ###
 
 
 To install Node Package manager:
@@ -22,7 +22,7 @@ Open http://localhost:3000 to view it in your browser.
 
 
 
-### Open Server folder in terminal: ###
+### Open Server folder in second terminal: ###
 
 To install Node Package manager:
 
