@@ -2,9 +2,9 @@
 
 This project was bootstrapped with Create React App.
 
-To view
+# To view
 
-Open Client folder in Terminal
+•Open Client folder in Terminal•
 
 
 To install Node Package manager:
