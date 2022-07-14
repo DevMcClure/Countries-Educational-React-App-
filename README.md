@@ -33,15 +33,16 @@ To install nodeman via npm and used via npm scripts.
 
 `npm install --save-dev nodemon`
 
+**Express:**
+ create a web server with Express:
+ 
+`npm install express`
+
 To run server:
 
 `npm run server:dev` 
 
 
-**Express:**
- create a web server with Express:
- 
-`npm install express`
 
 **MongoDB:**
  install mongoDB: 
