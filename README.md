@@ -1,8 +1,8 @@
 # Countries Educational React App
 
-This project was bootstrapped with Create React App.
-
 # Steps to run
+
+This project was bootstrapped with Create React App.
 
 ## Open "Client" folder in terminal: 
 
