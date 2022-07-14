@@ -20,7 +20,7 @@ Runs the app in the development mode.
 
 Open http://localhost:3000 to view it in your browser.
 
-(leave running in a terminal window)
+(leave terminal window running)
 
 
 
@@ -58,7 +58,7 @@ To seed the database:
 `npm run seeds`
 
 
-(leave running in a terminal window)
+(leave terminal window running)
 
 
 
