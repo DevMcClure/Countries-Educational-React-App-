@@ -53,7 +53,7 @@ Open http://localhost:3000 to view it in your browser.
 
 
 
-- To seed the database:
+- Seed the database:
 
 `npm run seeds`
 
