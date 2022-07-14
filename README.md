@@ -25,27 +25,33 @@ Open http://localhost:3000 to view it in your browser.
 ### Open Server folder in terminal: ###
 
 To install Node Package manager:
+
 `npm install` (if error: `npm update`)
 
 To install nodeman via npm and used via npm scripts.
 (A utility that used to watch for modifications and restart the application if the server.js file changes):
+
 `npm install --save-dev nodemon`
 
 To run server:
+
 `npm run server:dev` 
 
 
 **Express:**
  create a web server with Express:
+ 
 `npm install express`
 
 **MongoDB:**
  install mongoDB: 
+ 
 `npm i mongodb@3.5.7`
 
 
 
 To seed the database:
+
 `npm run seeds`
 
 
