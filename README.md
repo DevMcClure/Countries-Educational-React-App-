@@ -4,15 +4,15 @@ This project was bootstrapped with Create React App.
 
 # To view
 
-•Open Client folder in Terminal•
+**Open Client folder in Terminal:**
 
 
 To install Node Package manager:
-npm install (if error: npm update)
+`npm install` (if error: `npm update`)
 
 
 To run server:
-npm start
+`npm start`
 
 Runs the app in the development mode.
 Open http://localhost:3000 to view it in your browser.
@@ -20,31 +20,32 @@ Open http://localhost:3000 to view it in your browser.
 The page will reload when you make changes. You may also see any lint errors in the console.
 
 
-Open Server folder in Terminal:
+
+**Open Server folder in Terminal:**
 
 To install Node Package manager:
-npm install (if error: npm update)
+`npm install` (if error: `npm update`)
 
 To install nodeman via npm and used via npm scripts.
 (A utility that used to watch for modifications and restart the application if the server.js file changes):
-npm install --save-dev nodemon
+`npm install --save-dev nodemon`
 
 To run server:
-npm run server:dev 
+`npm run server:dev` 
 
 
-Express
+Express:
 To create a web server with Express:
-npm install express
+`npm install express`
 
-MongoDB
+MongoDB:
 To install mongoDB: 
-npm i mongodb@3.5.7
+`npm i mongodb@3.5.7`
 
 
 
-
-
+**To seed the database** 
+`npm run seeds`
 
 
 
