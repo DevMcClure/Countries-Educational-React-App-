@@ -73,7 +73,7 @@ A user should be able to:
 - Use an API to bring in content or a database to store information.
 - Use charts or maps to display your information to the page.
 
-## Technologies used
+## Technologies 
 
 - React<br>
 - Javascript<br>
