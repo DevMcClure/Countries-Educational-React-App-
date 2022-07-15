@@ -14,10 +14,9 @@ A user should be able to:
 
 ## Technologies 
 
-- React<br>
+- HTML/CSS<br>
 - Javascript<br>
-- HTML<br>
-- CSS<br>
+- React<br>
 - Mongo DB<br>
 
 
