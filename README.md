@@ -26,6 +26,7 @@ This project was bootstrapped with Create React App.<br>
 To run the following ensure  Node.js installed https://nodejs.org/en/ <br>
 
 - Install Node Package Manager(NPM):
+Run:
 ```
 npm update
 
