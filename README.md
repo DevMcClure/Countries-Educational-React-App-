@@ -81,11 +81,11 @@ npm run seeds
 ## Open "Client" folder in second terminal: 
 
 
-- Run server:
+- Run server (runs the app in the development mode):
 ```
 npm start 
 ```
-Runs the app in the development mode.
+
 
 Open http://localhost:3000 to view it in your browser.
 
