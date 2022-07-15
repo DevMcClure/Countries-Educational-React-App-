@@ -1,6 +1,6 @@
 # Countries Educational React App
 
-# Steps to run
+## Steps to run
 
 This project was bootstrapped with Create React App.
 
