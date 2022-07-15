@@ -38,8 +38,9 @@ npm install
 
 - To install nodeman via npm and used via npm scripts.
 (A utility that used to watch for modifications and restart the application if the server.js file changes):
-
-`npm install --save-dev nodemon`
+```
+npm install --save-dev nodemon
+```
 
 - **Express:**
  create a web server with Express:
