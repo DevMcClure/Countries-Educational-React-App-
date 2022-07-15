@@ -25,8 +25,8 @@ A user should be able to:
 This project was bootstrapped with Create React App.<br>
 To run the following ensure  Node.js installed https://nodejs.org/en/ <br>
 
-- Install Node Package Manager(NPM):
-Run:
+- Install Node Package Manager(NPM):<br>
+<br>Run:
 ```
 npm update
 
@@ -36,39 +36,44 @@ npm install
 
 ## Open "Server" folder in terminal: 
 
-- To use NPM in Server application:
-
+- To use NPM in Server application:<br>
+<br>Run:
 ```
 npm init -y
 ```
 
 
- - Create a web server with **Express**:
+ - Create a web server with **Express**:<br>
+ <br>Run:
  ```
 npm install express
 ```
 
 
 - (Optional)To install nodeman via npm and used via npm scripts.
-(A utility that used to watch for modifications and restart the application if the server.js file changes):
+(A utility that used to watch for modifications and restart the application if the server.js file changes):<br>
+<br>Run:
 ```
 npm install --save-dev nodemon
 ```
 
 
-- Run server:
+- Run server:<br>
+<br>Run:
 ```
 npm run server:dev
 ```
 
 
-- Install **MongoDB**: 
+- Install **MongoDB**: <br>
+<br>Run:
 ``` 
 npm i mongodb@3.5.7
 ```
 
 
-- Seed the database:
+- Seed the database:<br>
+<br>Run:
 ```
 npm run seeds
 ```
@@ -81,7 +86,8 @@ npm run seeds
 ## Open "Client" folder in second terminal: 
 
 
-- Run server (runs the app in the development mode):
+- Run server (runs the app in the development mode):<br>
+<br>Run:
 ```
 npm start 
 ```
