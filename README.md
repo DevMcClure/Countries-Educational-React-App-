@@ -2,9 +2,56 @@
 
 ## Steps to run
 
-This project was bootstrapped with Create React App.
+This project was bootstrapped with Create React App.<br>
+To run the following ensure  Node.js installed https://nodejs.org/en/ 
 
-## Open "Client" folder in terminal: 
+
+
+## Open "Server" folder in terminal: 
+
+- Install Node Package manager:
+
+```
+npm update
+
+npm install 
+```
+
+- To install nodeman via npm and used via npm scripts.
+(A utility that used to watch for modifications and restart the application if the server.js file changes):
+```
+npm install --save-dev nodemon
+```
+
+
+ - Create a web server with **Express**:
+ ```
+npm install express
+```
+
+- Run server:
+```
+npm run server:dev
+```
+
+
+
+- Install **MongoDB**: 
+``` 
+npm i mongodb@3.5.7
+```
+
+
+- Seed the database:
+```
+npm run seeds
+```
+
+*(leave terminal window running)*
+
+
+
+## Open "Client" folder in second terminal: 
 
 
 - Install Node Package manager:
@@ -23,52 +70,6 @@ Runs the app in the development mode.
 Open http://localhost:3000 to view it in your browser.
 
 *(leave terminal window running)*
-
-
-
-## Open "Server" folder in second terminal: 
-
-- Install Node Package manager:
-
-```
-npm update
-
-npm install 
-```
-
-- To install nodeman via npm and used via npm scripts.
-(A utility that used to watch for modifications and restart the application if the server.js file changes):
-```
-npm install --save-dev nodemon
-```
-
-- **Express:**
- create a web server with Express:
- ```
-npm install express
-```
-
-- Run server:
-```
-npm run server:dev
-```
-
-
-
-- **MongoDB:**
- install mongoDB: 
-``` 
-npm i mongodb@3.5.7
-```
-
-
-- Seed the database:
-```
-npm run seeds
-```
-
-*(leave terminal window running)*
-
 
 ## Project Brief - Educational App
 
