@@ -3,24 +3,22 @@
 ## Steps to run
 
 This project was bootstrapped with Create React App.<br>
-To run the following ensure  Node.js installed https://nodejs.org/en/ 
+To run the following ensure  Node.js installed https://nodejs.org/en/ <br>
 
-
-
-## Open "Server" folder in terminal: 
-
-- Install Node Package manager:
-
+- Install Node Package Manager(NPM):
 ```
 npm update
 
 npm install 
 ```
 
-- To install nodeman via npm and used via npm scripts.
-(A utility that used to watch for modifications and restart the application if the server.js file changes):
+
+## Open "Server" folder in terminal: 
+
+- To use NPM in Server application:
+
 ```
-npm install --save-dev nodemon
+npm init -y
 ```
 
 
@@ -29,11 +27,18 @@ npm install --save-dev nodemon
 npm install express
 ```
 
+
+- To install nodeman via npm and used via npm scripts.
+(A utility that used to watch for modifications and restart the application if the server.js file changes):
+```
+npm install --save-dev nodemon
+```
+
+
 - Run server:
 ```
 npm run server:dev
 ```
-
 
 
 - Install **MongoDB**: 
@@ -47,19 +52,13 @@ npm i mongodb@3.5.7
 npm run seeds
 ```
 
+
 *(leave terminal window running)*
 
 
 
 ## Open "Client" folder in second terminal: 
 
-
-- Install Node Package manager:
-```
-npm update
-
-npm install 
-```
 
 - Run server:
 ```
