@@ -8,14 +8,16 @@ This project was bootstrapped with Create React App.
 
 
 - Install Node Package manager:
+```
+npm update
 
-`npm install` (if error: `npm update`)
-
+npm install 
+```
 
 - Run server:
-
-`npm start` 
-
+```
+npm start 
+```
 Runs the app in the development mode.
 
 Open http://localhost:3000 to view it in your browser.
@@ -28,7 +30,11 @@ Open http://localhost:3000 to view it in your browser.
 
 - Install Node Package manager:
 
-`npm install` (if error: `npm update`)
+```
+npm update
+
+npm install 
+```
 
 - To install nodeman via npm and used via npm scripts.
 (A utility that used to watch for modifications and restart the application if the server.js file changes):
@@ -37,26 +43,28 @@ Open http://localhost:3000 to view it in your browser.
 
 - **Express:**
  create a web server with Express:
- 
-`npm install express`
+ ```
+npm install express
+```
 
 - Run server:
-
-`npm run server:dev` 
+```
+npm run server:dev
+```
 
 
 
 - **MongoDB:**
  install mongoDB: 
- 
-`npm i mongodb@3.5.7`
-
+``` 
+npm i mongodb@3.5.7
+```
 
 
 - Seed the database:
-
-`npm run seeds`
-
+```
+npm run seeds
+```
 
 *(leave terminal window running)*
 
