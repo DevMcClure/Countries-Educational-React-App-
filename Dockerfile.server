@@ -1,0 +1,21 @@
+FROM mongo
+
+WORKDIR /app
+
+COPY package*.json ./
+
+RUN apt-get update && \
+    apt install nodejs npm -y && \ 
+    npm install
+
+COPY . .
+
+WORKDIR /app/server
+
+RUN npm init -y && \
+    npm install && \
+    npm install express mongodb@3.5.7
+
+EXPOSE 9000
+
+CMD ["npm", "run", "server:dev"]
