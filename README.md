@@ -23,6 +23,8 @@ A user should be able to:
 
 ## Run in Docker
 
+_Ensure you have [Docker installed](https://docs.docker.com/get-docker/) and running on your machine._
+
 Run the containers:
 
 ```
