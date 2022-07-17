@@ -25,6 +25,8 @@ services:
     image: countries-server
     container_name: app-db
     restart: always
+    environment:
+      - DB_URI=mongo
     build:
       context: .
       dockerfile: Dockerfile.server
