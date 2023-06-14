@@ -15,7 +15,7 @@ const CountryList = ({ countries, onCountryClick, handleCountryStudied, handleRe
             <div>
                 {countriesItems}
             </div>
-            
+
         </>
     )
 }
